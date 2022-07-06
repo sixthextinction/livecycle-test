@@ -14,13 +14,13 @@ function App() {
       Items: [
         {
           Name: "APIs for Devs",
-          // Image: "https://source.unsplash.com/featured/?coding",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?coding",
+          //Image: "https://via.placeholder.com/400"
         },
         {
           Name: "Trending VS Code Extensions",
-          // Image: "https://source.unsplash.com/featured/?developers",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?developers",
+          //Image: "https://via.placeholder.com/400"
         },
       ],
     },
@@ -31,13 +31,13 @@ function App() {
       Items: [
         {
           Name: "Best UI/UX Practices",
-          // Image: "https://source.unsplash.com/featured/?ui,ux",
-          Image: "https://via.placeholder.com/400"
+           Image: "https://source.unsplash.com/featured/?ui,ux",
+          // Image: "https://via.placeholder.com/400"
         },
         {
           Name: "Responsive Design And You",
-          // Image: "https://source.unsplash.com/featured/?css",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?css",
+          // Image: "https://via.placeholder.com/400"
         },
       ],
     },
@@ -48,13 +48,13 @@ function App() {
       Items: [
         {
           Name: "Pro Tip : Read More.",
-          // Image: "https://source.unsplash.com/featured/?reading",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?reading",
+          // Image: "https://via.placeholder.com/400"
         },
         {
           Name: "How To Craft Stories",
-          // Image: "https://source.unsplash.com/featured/?diary",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?diar",
+          // Image: "https://via.placeholder.com/400"
         },
       ],
     },
@@ -66,7 +66,6 @@ function App() {
       interval={3000}
       animation={"fade"}
       duration={500}
-      navButtonsAlwaysVisible={false}
     >
       {items.map((item, index) => {
         return (
