@@ -53,7 +53,7 @@ function App() {
         },
         {
           Name: "How To Craft Stories",
-          Image: "https://source.unsplash.com/featured/?diar",
+          Image: "https://source.unsplash.com/featured/?diary",
           // Image: "https://via.placeholder.com/400"
         },
       ],
