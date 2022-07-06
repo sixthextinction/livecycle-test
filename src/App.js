@@ -14,13 +14,13 @@ function App() {
       Items: [
         {
           Name: "APIs for Devs",
-          // Image: "https://source.unsplash.com/featured/?coding",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?coding",
+          //Image: "https://via.placeholder.com/400"
         },
         {
           Name: "Trending VS Code Extensions",
-          // Image: "https://source.unsplash.com/featured/?developers",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?developers",
+          //Image: "https://via.placeholder.com/400"
         },
       ],
     },
