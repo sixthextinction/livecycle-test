@@ -9,7 +9,7 @@ function App() {
   const items = [
     {
       Name: "Developers",
-      Caption: "Come in, we've got ALL the code!",
+      Caption: "The Content Hub that caters to YOU.",
       contentPosition: "left",
       Items: [
         {
