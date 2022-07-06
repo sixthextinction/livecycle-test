@@ -1,1 +1,1 @@
-A simple carousel as a test for LiveCycle
+A simple carousel as a test for LiveCycle.
