@@ -66,6 +66,7 @@ function App() {
       interval={3000}
       animation={"fade"}
       duration={500}
+      autoPlay={false}
       navButtonsAlwaysVisible={false}
     >
       {items.map((item, index) => {
