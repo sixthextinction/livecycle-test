@@ -9,18 +9,16 @@ function App() {
   const items = [
     {
       Name: "Developers",
-      Caption: "Come in, we've got ALL the code!",
+      Caption: "The Content Hub That Caters To You!",
       contentPosition: "left",
       Items: [
         {
           Name: "APIs for Devs",
-          // Image: "https://source.unsplash.com/featured/?coding",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?coding",
         },
         {
           Name: "Trending VS Code Extensions",
-          // Image: "https://source.unsplash.com/featured/?developers",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?developers",
         },
       ],
     },
@@ -31,13 +29,11 @@ function App() {
       Items: [
         {
           Name: "Best UI/UX Practices",
-          // Image: "https://source.unsplash.com/featured/?ui,ux",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?ui,ux",
         },
         {
           Name: "Responsive Design And You",
-          // Image: "https://source.unsplash.com/featured/?css",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?css",
         },
       ],
     },
@@ -48,13 +44,11 @@ function App() {
       Items: [
         {
           Name: "Pro Tip : Read More.",
-          // Image: "https://source.unsplash.com/featured/?reading",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?reading",
         },
         {
           Name: "How To Craft Stories",
-          // Image: "https://source.unsplash.com/featured/?diary",
-          Image: "https://via.placeholder.com/400"
+          Image: "https://source.unsplash.com/featured/?diary",
         },
       ],
     },
