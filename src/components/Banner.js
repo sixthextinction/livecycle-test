@@ -12,7 +12,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 
 const theme = createTheme({
   typography: {
-    // fontFamily: ["Roboto Mono", "monospace"].join(","),
+    fontFamily: ["Roboto Mono", "monospace"].join(","),
   },
 });
 
